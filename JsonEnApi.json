@@ -1,0 +1,132 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "titel": "The Dragonet Prophecy",
+      "auteur": "Tui T. Sutherland",
+      "serie": "Wings of Fire",
+      "jaar": 2012,
+      "rating": 8.2,
+      "beschrijving": "Vijf jonge draken worden voorspeld om de grote oorlog te stoppen."
+    },
+    {
+      "id": 2,
+      "titel": "The Lost Heir",
+      "auteur": "Tui T. Sutherland",
+      "serie": "Wings of Fire",
+      "jaar": 2013,
+      "rating": 7.8,
+      "beschrijving": "Tsunami komt te weten dat haar ei was gestolen van de koninklijke familie en herenigd met haar moeder en zuster."
+    },
+    {
+      "id": 3,
+      "titel": "The Hidden Kingdom",
+      "auteur": "Tui T. Sutherland",
+      "serie": "Wings of Fire",
+      "jaar": 2013,
+      "rating": 8.8,
+      "beschrijving": "Na de gebeurtenissen in The Lost Heir moeten de vijf draken jongeren vluchten, ze kiezen hiervoor het mysterieuze thuis van Glory's soort."
+    },
+    {
+      "id": 4,
+      "titel": "The Dark Secret",
+      "auteur": "Tui T. Sutherland",
+      "serie": "Wings of Fire",
+      "jaar": 2014,
+      "rating": 7.7,
+      "beschrijving": "Starflight wordt ontvoerd door zijn stam en leert wat ze van plan zijn te doen."
+    },
+    {
+      "id": 5,
+      "titel": "The Brightest Night",
+      "auteur": "Tui T. Sutherland",
+      "serie": "Wings of Fire",
+      "jaar": 2014,
+      "rating": 9.0,
+      "beschrijving": "Sunny besluit vastberaden om de oorlog tot een einde te brengen, zelf als ze dit alleen moet doen."
+    },
+    {
+      "id": 6,
+      "titel": "Moon Rising",
+      "auteur": "Tui T. Sutherland",
+      "serie": "Wings of Fire",
+      "jaar": 2014,
+      "rating": 9.0,
+      "beschrijving": "Moonwatcher hoort de gedachten van een eeuwen oud kwaad diep begraven in de aarde."
+    },
+    {
+      "id": 7,
+      "titel": "His Majesty's Dragon",
+      "auteur": "Naomi Novik",
+      "serie": "Temeraire",
+      "jaar": 2006,
+      "rating": 8.2,
+      "beschrijving": "Kapitein Will Laurence onderschept een drakenei tijdens de Napoleontische oorlogen."
+    },
+    {
+      "id": 8,
+      "titel": "Throne of Jade",
+      "auteur": "Naomi Novik",
+      "serie": "Temeraire",
+      "jaar": 2006,
+      "rating": 7.0,
+      "beschrijving": "Temeraire en Laurence reizen naar Azie."
+    },
+    {
+      "id": 9,
+      "titel": "Black Powder War",
+      "auteur": "Naomi Novik",
+      "serie": "Temeraire",
+      "jaar": 2006,
+      "rating": 8.0,
+      "beschrijving": "Temeraire en Laurence proberen terug naar Groot Britaine te reizen maar geraken in problemen."
+    },
+    {
+      "id": 10,
+      "titel": "Awakening",
+      "auteur": "Ryan Geldof",
+      "serie": "Scales and Blades",
+      "jaar": 2026,
+      "rating": 8.0,
+      "beschrijving": "Mijn eigen epische drakenverhaal vol vriendschap, avontuur en verraad. (door mij geschreven!)"
+    },
+    {
+      "id": 11,
+      "titel": "Escaping Peril",
+      "auteur": "Tui T. Sutherland",
+      "serie": "Wings of Fire",
+      "jaar": 2015,
+      "rating": 8.9,
+      "beschrijving": "Een spannend avontuur in de dodelijke jungle."
+    },
+    {
+      "id": 12,
+      "titel": "Empire of Ivory",
+      "auteur": "Naomi Novik",
+      "serie": "Temeraire",
+      "jaar": 2007,
+      "rating": 7.7,
+      "beschrijving": "Temeraire en Laurence gaan opzoek in Afrika naar een middel om een ziekte te bestrijden."
+    }
+  ],
+  "series": [
+    {
+      "id": 1,
+      "naam": "Wings of Fire",
+      "aantal_boeken": 16,
+      "beschrijving": "Een wereld waar draken het voor het zegen hebben en leven in stammen. Wings of Fire is een wereld vol met voorspellingen en magie."
+    },
+    {
+      "id": 2,
+      "naam": "Temeraire",
+      "aantal_boeken": 9,
+      "beschrijving": "Napoleontische oorlog maar nu met draken er in verwerkt."
+    },
+    {
+      "id": 3,
+      "naam": "Scales and Blades",
+      "aantal_boeken": 1,
+      "beschrijving": "Vers begonnen serie dat plaats neemt op het fictieve continentale eiland Qald. Draken en mensen vechten hier voor hun overleving."
+    }
+  ]
+}
